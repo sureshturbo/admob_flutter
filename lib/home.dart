@@ -21,8 +21,8 @@ class _HomePageState extends State<HomePage> {
   bool isAdLoaded = false;
   //var adunit = "ca-app-pub-1205306575743971/3484845985";
   var adunit = "ca-app-pub-3940256099942544/6300978111";
-
-  initBannerAd(){
+///banner function
+ initBannerAd(){
     bannerAd = BannerAd(size: AdSize.banner,
         adUnitId: adunit,
         listener: BannerAdListener(
