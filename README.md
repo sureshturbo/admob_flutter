@@ -1,16 +1,11 @@
 # admob_flutter
 
-A new Flutter project.
+Reference Notes
 
-## Getting Started
+https://www.youtube.com/watch?v=03FsQQUsj7I&ab_channel=BaabaDevs
 
-This project is a starting point for a Flutter application.
+https://stackoverflow.com/questions/52786963/unable-to-get-provider-com-google-android-gms-ads-mobileadsinitprovider-java-la
 
-A few resources to get you started if this is your first Flutter project:
+https://developers.google.com/admob/android/banner
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Admob-in-flutter](https://user-images.githubusercontent.com/44191960/236761767-732ca847-1fb8-44ca-9912-16c303c28ced.png)
